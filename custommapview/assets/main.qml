@@ -31,7 +31,7 @@ Page {
             }
         },
         ActionItem {
-            title: qsTr("Ramove Pins")
+            title: qsTr("Remove Pins")
             imageSource: "asset:///images/clearpin.png"
             ActionBar.placement: ActionBarPlacement.OnBar
             onTriggered: {
